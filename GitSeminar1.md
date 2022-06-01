@@ -19,3 +19,13 @@
 1. Текст один
 2. Текст два
 3. Текст три
+
+## Создание ссылок
+https://yandex.ru
+
+## Вставка изображения
+![alt text](https://vsegda-pomnim.com/uploads/posts/2022-02/1645923078_1-vsegda-pomnim-com-p-krasivie-oblaka-foto-1.jpg "Logo Title Text 1")
+
+## Создание цитат
+> Цитаты задаются угловой скобкой.
+> Это строка является частью цитаты.
