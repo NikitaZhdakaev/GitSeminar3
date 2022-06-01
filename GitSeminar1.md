@@ -1,1 +1,1 @@
-# This is my Git Seminar1
+# This is my Git Seminar1 ;)
